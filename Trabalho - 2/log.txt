@@ -1,7 +1,0 @@
-05082d9 (HEAD -> master) nada de novo
-efd38fb (origin/master) :white_check_mark: testes manuais.
-1ef0260 :white_check_mark: valgrind cpp check e lint.
-7549a7f :construction: makefile inicial sem os o.
-395cbcb :construction: makefile inicial.
-36993e5 :white_check_mark: primeiro arquivo teste
-8a5bc61 :tada: início
